@@ -16,4 +16,4 @@ Currently, we have two active sub-projects:
 * [Attested TLS proof-of-concept](https://github.com/ccc-attestation/attested-tls-poc)
 * [RA-TLS harmonisation](https://github.com/ccc-attestation/interoperable-ra-tls)
 
-Check our [issue tracker](https://github.com/ccc-attestation/governance/issue) for any pending project proposal.
+Check our [issue tracker](https://github.com/ccc-attestation/governance/issues) for any pending project proposal.

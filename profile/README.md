@@ -11,9 +11,11 @@ Check the [meetings page](https://github.com/ccc-attestation/meetings) for point
 
 ## Sub-Projects
 
-Currently, we have two active sub-projects:
+Currently, we have three active sub-projects:
 
 * [Attested TLS proof-of-concept](https://github.com/ccc-attestation/attested-tls-poc)
 * [RA-TLS harmonisation](https://github.com/ccc-attestation/interoperable-ra-tls)
+* [Formal specification of Attestation in Confidential Computing](https://github.com/ccc-attestation/formal-spec-TEE)
+
 
 Check our [issue tracker](https://github.com/ccc-attestation/governance/issues) for any pending project proposal.
